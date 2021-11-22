@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hctor11
 
-i'm a junior programmer learning JavaScript, Git and GitHub
+i'm a junior programmer learning frontend development.
 
 <!---
 Hctor11/Hctor11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
