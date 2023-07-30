@@ -7,7 +7,7 @@
 <br>
 <a href="https://kaggle.com/hctorrivera" target="_blank">Kaggle</a>
 <br>
-<a href="https://dribbble.com/hectorrivera222" target="_blank">Dribble</a>
+<a href="https://dribbble.com/hectorrivera222" target="_blank">Dribbble</a>
 <br>
 <a href="https://www.behance.net/hctorrivera3" target="_blank">Behance</a>
 </p>
