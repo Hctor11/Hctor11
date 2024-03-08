@@ -1,5 +1,5 @@
 <h1>Hi, I'm Héctor</h1>
-<h3>A developer who likes to learn new things.</h3>
+<h3>Software Developer amd Graphic Designer.</h3>
 
 <h3 align="left">My accounts:</h3>
 <p align="left">
