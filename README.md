@@ -1,7 +1,7 @@
 <h1>Hi, I'm Héctor</h1>
 <h3>Software Developer amd Graphic Designer.</h3>
 
-<h3 align="left">My accounts:</h3>
+<h4 align="left">You can find me on:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/hectorrivera222" target="_blank">LinkedIn</a>
 <br>
@@ -11,5 +11,3 @@
 <br>
 <a href="https://www.behance.net/hctorrivera3" target="_blank">Behance</a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hctor11&show_icons=true&locale=en&layout=compact" alt="hctor11" /></p>
